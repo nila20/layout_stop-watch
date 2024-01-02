@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;;;;AAOA;;;;;;;;;;;AAUE;;;;;;;;;;AAUA;;;;;;;;;;AAUA;;;;;;;;AASF","sources":["src/styles/style.scss","src/styles/blocks/main.scss","src/styles/utils/variables.scss"],"sourcesContent":["@import './utils/variables';\n@import './blocks/main';\n",null,null],"names":[],"version":3,"file":"index.38ec9247.css.map","sourceRoot":"/__parcel_source_root/"}
